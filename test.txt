@@ -1,3 +1,4 @@
 Document test où on veut récuperer "texte voulu" de la branche. 
 
 Texte voulu
+Texte NON voulu
